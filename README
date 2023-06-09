@@ -1,0 +1,41 @@
+Файл запуска:
+>>>app.py
+
+Голосовой ассистент "Крендель 2.0" -> "Ксения",
+с поддержкой ChatGPT.
+
+from YT channel PythonHubStudio
+
+python 3.8 и выше.
+
+Распаковать в проект языковую модель vosk
+
+Требуется:
+pip install vosk
+pip install sounddevice
+pip install soundfile
+pip install scikit-learn
+pip install gtts
+pip install openai
+pip install torch
+pip install Pyllow
+
+
+Ссылки на библиотеки и доп материалы:
+sounddevice
+https://pypi.org/project/sounddevice/
+https://python-sounddevice.readthedocs.io/en/0.4.4/
+vosk
+https://pypi.org/project/vosk/
+https://github.com/alphacep/vosk-api
+https://alphacephei.com/vosk/
+sklearn
+https://pypi.org/project/scikit-learn/
+https://scikit-learn.org/stable/
+requests
+https://pypi.org/project/requests/
+gtts
+https://gtts.readthedocs.io/en/latest/
+openai
+https://pypi.org/project/openai/
+https://openai.com/
